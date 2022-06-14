@@ -1,0 +1,7 @@
+C:\Users\Ross\source\repos\PaymentExample\PaymentExample\bin\Debug\PaymentExample.exe.config
+C:\Users\Ross\source\repos\PaymentExample\PaymentExample\bin\Debug\PaymentExample.exe
+C:\Users\Ross\source\repos\PaymentExample\PaymentExample\bin\Debug\PaymentExample.pdb
+C:\Users\Ross\source\repos\PaymentExample\PaymentExample\obj\Debug\PaymentExample.csprojResolveAssemblyReference.cache
+C:\Users\Ross\source\repos\PaymentExample\PaymentExample\obj\Debug\PaymentExample.csproj.CoreCompileInputs.cache
+C:\Users\Ross\source\repos\PaymentExample\PaymentExample\obj\Debug\PaymentExample.exe
+C:\Users\Ross\source\repos\PaymentExample\PaymentExample\obj\Debug\PaymentExample.pdb
